@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Das solte Klappen
 
+=======
+ooooooooooooooooo
+>>>>>>> 084ab9cc6e4cf79b02ac0f4c82173b24d366f7b3
