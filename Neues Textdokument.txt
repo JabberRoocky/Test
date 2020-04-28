@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+Error
+=======
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+>>>>>>> 161a28ad118ff600fe06cd64edc8f273ad3f7e0f
